@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Smart Task Manager</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>
+            <i class="fa-solid fa-list-check"></i>
+            Smart Task Manager
+        </h1>
+
+        <!-- Input Section -->
+
+        <div class="task-form">
+
+            <input type="text"
+                id="taskInput"
+                placeholder="Enter Task Name">
+
+            <div class="row">
+
+                <div class="field">
+
+                    <label>Date</label>
+
+                    <input type="date"
+                        id="taskDate">
+
+                </div>
+
+                <div class="field">
+
+                    <label>Time</label>
+
+                    <input type="time"
+                        id="taskTime">
+
+                </div>
+
+            </div>
+
+            <div class="row">
+
+                <div class="field">
+
+                    <label>Priority</label>
+
+                    <select id="taskPriority">
+
+                        <option value="High">🔴 High</option>
+
+                        <option value="Medium">🟡 Medium</option>
+
+                        <option value="Low">🟢 Low</option>
+
+                    </select>
+
+                </div>
+
+                <button id="addTaskBtn">
+
+                    <i class="fa-solid fa-plus"></i>
+
+                    Add Task
+
+                </button>
+
+            </div>
+
+        </div>
+
+        <!-- Summary -->
+
+        <div class="summary">
+
+            <div class="box">
+
+                <h2 id="pendingCount">0</h2>
+
+                <p>Pending Tasks</p>
+
+            </div>
+
+            <div class="box">
+
+                <h2 id="completedCount">0</h2>
+
+                <p>Completed</p>
+
+            </div>
+
+        </div>
+
+        <!-- Current Tasks -->
+
+        <div class="task-section">
+
+            <h2>
+
+                <i class="fa-solid fa-list"></i>
+
+                Current Tasks
+
+            </h2>
+
+            <div id="taskList">
+
+            </div>
+
+        </div>
+
+        <!-- Scheduled Tasks -->
+
+        <div class="task-section">
+
+            <h2>
+
+                <i class="fa-solid fa-calendar-days"></i>
+
+                Scheduled Tasks
+
+            </h2>
+
+            <div id="scheduledList">
+
+            </div>
+
+        </div>
+
+        <!-- Completed Tasks -->
+
+        <div class="task-section">
+
+            <h2>
+
+                <i class="fa-solid fa-circle-check"></i>
+
+                Completed Tasks
+
+            </h2>
+
+            <div id="completedList">
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
