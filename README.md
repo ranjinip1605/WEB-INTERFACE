@@ -1,10 +1,10 @@
 **Unit-1 WEB INTERFACE**
 
-**# Project - 1 ⏱️Stopwatch**
+** Project - 1 ⏱️Stopwatch**
 
 A simple and responsive stopwatch built using **HTML, CSS, and JavaScript** with a modern neon-themed interface.
 
-**## Features**
+** Features**
 
 - ▶️ Start
 - ⏸️ Stop
@@ -12,17 +12,17 @@ A simple and responsive stopwatch built using **HTML, CSS, and JavaScript** with
 - 🏁 Lap Timer
 - ✨ Responsive Neon UI
 
-**## Technologies**
+** Technologies**
 
 - HTML5
 - CSS3
 - JavaScript
 
-**## 🌐 Live Demo**
+** 🌐 Live Demo**
 **
 https://ranjini1stopwatch.netlify.app/**
 
-**## Author**
+** Author**
 
 **Ranjini P**
 
@@ -32,11 +32,11 @@ https://ranjini1stopwatch.netlify.app/**
 
 **---**
 
-**# Project - 2 📋 Smart Task Manager**
+** Project - 2 📋 Smart Task Manager**
 
 A simple and responsive **Task Manager** built using **HTML, CSS, and JavaScript** to help users organize and manage daily tasks efficiently.
 
-**## Features**
+** Features**
 
 - ➕ Add Tasks
 - ✏️ Edit Tasks
@@ -46,24 +46,24 @@ A simple and responsive **Task Manager** built using **HTML, CSS, and JavaScript
 - 💾 Local Storage Support
 - 📱 Responsive Design
 
-**## Technologies**
+** Technologies**
 
 - HTML5
 - CSS3
 - JavaScript
 
-**## 📂 Files**
+** 📂 Files**
 
 index.html
 style.css
 script.js
 README.md
 
-**## 🌐 Live Demo**
+** 🌐 Live Demo**
 
 **(https://ranjini2task-manager.netlify.app/)**
 
-**## Author**
+** Author**
 
 **Ranjini P**
 
