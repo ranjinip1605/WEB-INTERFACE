@@ -68,7 +68,7 @@ README.md
 
 **Ranjini P**
 
-**GitHub: https:**//github.com/ranjinip1605
+**GitHub:** https://github.com/ranjinip1605
 
 <img width="960" height="615" alt="image" src="https://github.com/user-attachments/assets/621736fe-7e68-4875-b471-b58bafe43b00" />
 
