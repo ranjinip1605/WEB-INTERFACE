@@ -22,7 +22,7 @@ A simple and responsive stopwatch built using **HTML, CSS, and JavaScript** with
 
 **(https://ranjini1stopwatch.netlify.app/)**
 
-** Author**
+**Author**
 
 **Ranjini P**
 
