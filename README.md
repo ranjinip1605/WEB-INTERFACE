@@ -19,6 +19,7 @@ A simple and responsive stopwatch built using **HTML, CSS, and JavaScript** with
 - JavaScript
 
 **🌐 Live Demo**
+
 **(https://ranjini1stopwatch.netlify.app/)**
 
 ** Author**
@@ -26,6 +27,7 @@ A simple and responsive stopwatch built using **HTML, CSS, and JavaScript** with
 **Ranjini P**
 
 **GitHub:** https://github.com/ranjinip1605
+
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/845de0b5-3d34-4289-88e4-21c772674a0d" />
 
 
