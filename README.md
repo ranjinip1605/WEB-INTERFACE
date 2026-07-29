@@ -31,7 +31,7 @@ A simple and responsive stopwatch built using **HTML, CSS, and JavaScript** with
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/845de0b5-3d34-4289-88e4-21c772674a0d" />
 
 
-**---**
+**-----------------------------------------------------------------------------------------------------------------------------------------------**
 
 **Project - 2 📋 Smart Task Manager**
 
@@ -72,5 +72,11 @@ README.md
 
 <img width="960" height="615" alt="image" src="https://github.com/user-attachments/assets/621736fe-7e68-4875-b471-b58bafe43b00" />
 
+**-----------------------------------------------------------------------------------------------------------------------------------------------**
+**Project - 3 Sparsh braille landing page**
+
+**Live Demo**
+
+**https://6a6a088022c7c46cd5a3c656--curious-profiterole-c50f5a.netlify.app/**
 
 
