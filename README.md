@@ -1,82 +1,59 @@
 **Unit - 1 WEB INTERFACE**
 
-**Project - 1 ⏱️Stopwatch**
+**Project - 1 Stopwatch**
 
-A simple and responsive stopwatch built using **HTML, CSS, and JavaScript** with a modern neon-themed interface.
+**Live Demo**
 
-**Features**
-
-- ▶️ Start
-- ⏸️ Stop
-- 🔄 Reset
-- 🏁 Lap Timer
-- ✨ Responsive Neon UI
-
-**Technologies**
-
-- HTML5
-- CSS3
-- JavaScript
-
-**🌐 Live Demo**
-
-**(https://ranjini1stopwatch.netlify.app/)**
-
-**Author**
-
-**Ranjini P**
+**https://ranjini1stopwatch.netlify.app/**
 
 **GitHub:** https://github.com/ranjinip1605
 
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/845de0b5-3d34-4289-88e4-21c772674a0d" />
 
 
-**-----------------------------------------------------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------------------------------**
 
-**Project - 2 📋 Smart Task Manager**
+**Project - 2 Smart Task Manager**
 
-A simple and responsive **Task Manager** built using **HTML, CSS, and JavaScript** to help users organize and manage daily tasks efficiently.
+**Live Demo**
 
-**Features**
-
-- ➕ Add Tasks
-- ✏️ Edit Tasks
-- ✅ Mark as Completed
-- 🗑️ Delete Tasks
-- 📜 Task History
-- 💾 Local Storage Support
-- 📱 Responsive Design
-
-**Technologies**
-
-- HTML5
-- CSS3
-- JavaScript
-
-**📂 Files**
-
-index.html
-style.css
-script.js
-README.md
-
-**🌐 Live Demo**
-
-**(https://ranjini2task-manager.netlify.app/)**
-
-**Author**
-
-**Ranjini P**
+**https://ranjini2task-manager.netlify.app/**
 
 **GitHub:** https://github.com/ranjinip1605
 
 <img width="960" height="615" alt="image" src="https://github.com/user-attachments/assets/621736fe-7e68-4875-b471-b58bafe43b00" />
 
-**-----------------------------------------------------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------------------------------------**
+
+**Unit - 2**
+
 **Project - 3 Sparsh braille landing page**
 
 **Live Demo**
 
 **https://6a6a088022c7c46cd5a3c656--curious-profiterole-c50f5a.netlify.app/**
 
+**-------------------------------------------------------------------------------------------------------------------------------------**
+
+**Project - 4 Portfolio**
+
+**Live Demo**
+
+**vermillion-fox-e09a90.netlify.app**
+
+**-------------------------------------------------------------------------------------------------------------------------------------**
+
+**Unit - 3**
+
+**Project - 5 Quiz App**
+
+**Live Demo**
+
+**https://quiz-assessment-portal.netlify.app/**
+
+**-------------------------------------------------------------------------------------------------------------------------------------**
+
+**Project - 6 Unit Convertor**
+
+**Live Demo**
 
